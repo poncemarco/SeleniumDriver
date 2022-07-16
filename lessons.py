@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
-selenium_path = "C:\\Users\\Enrique M\\OneDrive\\Documentos\\Marco\\Web Development\\chromedriver.exe"
+selenium_path = Your path
 driver = webdriver.Chrome(executable_path=selenium_path)
 web = "https://www.python.org/"
 
